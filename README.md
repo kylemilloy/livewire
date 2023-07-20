@@ -2,7 +2,7 @@
 ## Big Laracon goals:
 - [ ] New site ready
 - [ ] Livewire 3 beta "good enough"
-- [ ] Talk as good and polished as possible
+- [x] Talk as good and polished as possible
 - [x] Have cool swag
 
 ## Todo:
@@ -60,4 +60,3 @@
             * A web gui?
             * A crowd yelling trigger?
             * something else?
-
